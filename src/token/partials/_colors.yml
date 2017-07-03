@@ -1,0 +1,8 @@
+global:
+  category: 'web'
+  type: 'color'
+props:
+  color-white: 
+    value: '#ffffff'
+  color-black: 
+    value: '#000000'

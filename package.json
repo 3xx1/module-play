@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/3xx1/module-play/issues"
   },
-  "homepage": "https://github.com/3xx1/module-play#readme"
+  "homepage": "https://github.com/3xx1/module-play#readme",
+  "devDependencies": {
+    "jsonfile": "^3.0.0",
+    "theo": "^6.0.0-alpha.7"
+  }
 }

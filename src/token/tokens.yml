@@ -1,0 +1,4 @@
+global:
+  category: 'web'
+imports:
+  - partials/_colors.yml
